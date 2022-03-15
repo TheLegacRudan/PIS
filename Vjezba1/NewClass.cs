@@ -6,5 +6,8 @@ namespace Vjezba1
 {
     class NewClass
     {
+        public static void drugoime(){
+            console.writeline("printa nesto drugo");
+        }
     }
 }
