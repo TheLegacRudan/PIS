@@ -8,7 +8,7 @@ namespace Vjezba1
     {
         public static void funkcija()
         {
-            Console.WriteLine("Nesto");
+            Console.WriteLine("printa nesto drugo");
         }
     }
 }
